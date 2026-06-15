@@ -1,4 +1,4 @@
-# 📈 Indian Options Pricer
+# Option Pricing Model
 
 A Streamlit web app for pricing NSE/BSE options using three industry-standard models.
 
